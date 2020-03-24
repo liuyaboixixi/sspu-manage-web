@@ -1,4 +1,4 @@
-const baseUrl = 'http://api.sspu.com'
+const baseUrl = 'http://api.sspu.nat300.top'
 const config = {
   locale: 'zh-CN', // en-US, zh-CN
   url: baseUrl,
